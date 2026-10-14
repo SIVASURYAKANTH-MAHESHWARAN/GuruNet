@@ -11,3 +11,5 @@ class TeacherOut(TeacherCreate):
 
     class Config:
         orm_mode = True
+
+log 
